@@ -11,9 +11,9 @@ module.exports = {
         await delay(2000)
         const btn = [
             { urlButton: { displayText: `🌐 Web`, url: `https://masgimenz.my.id` } },
-            { urlButton: { displayText: `📸 Instagram`, url: `https://www.instagram.com/gimenz.id` } },
-            { urlButton: { displayText: `🐈 Github`, url: `https://github.com/Gimenz` } },
-            { urlButton: { displayText: `🎨 TikTok`, url: `https://www.tiktok.com/@gh0stp0w3r` } },
+            { urlButton: { displayText: `📸 Instagram`, url: `https://www.instagram.com/lorddimas_` } },
+            { urlButton: { displayText: `🐈 Github`, url: `https://github.com/Dimasbiasalah` } },
+            { urlButton: { displayText: `🎨 TikTok`, url: `https://www.tiktok.com/@1234567rt` } },
         ]
         client.sendMessage(m.chat, { text: `Social Media`, footer, templateButtons: btn }, { quoted: m })
     }
