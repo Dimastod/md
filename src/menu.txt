@@ -1,5 +1,5 @@
 *Social Media Downloader Bot*
-[ kirimkan link post dari social media yang ingin di download, dan tunggu bot memproses ] - contoh : https://www.instagram.com/reel/CXg9cuaDuNq
+[ kirimkan link post dari social media yang ingin di download, dan tunggu bot memproses ] - contoh : https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODkyMDUwOTgzOTM2MTk2?story_media_id=2509284974480108241_5499469966&utm_medium=copy_link
 
 *Supported links* :
 *├* Facebook [support public groups]
