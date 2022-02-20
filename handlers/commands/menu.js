@@ -80,7 +80,7 @@ module.exports = {
         ].join('\n')
 
         const buttonsDefault = [
-            { urlButton: { displayText: `🍴 Source Code`, url: package.repository.url } },
+            { urlButton: { displayText: `🍴 Source Code`, url: `https://chat.whatsapp.com/BLPOAP20ehx9R1wNSNpEcp` },
             { urlButton: { displayText: `💌 Telegram Bot`, url: `https://t.me/tikdl_bot` } },
             { quickReplyButton: { displayText: `☎ Owner`, id: `${prefix}owner` } },
         ]
